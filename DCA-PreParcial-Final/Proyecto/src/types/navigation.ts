@@ -1,0 +1,5 @@
+export enum Screens {
+    DASHBOARD = "DASHBOARD",
+    ADD_PRODUCTS = "ADD_PRODUCTS",
+    MODIFY_PRODUCTS = "MODIFY_PRODUCTS",
+};
